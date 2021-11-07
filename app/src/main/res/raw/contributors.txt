@@ -7,15 +7,17 @@ solokot
 mondstern
 Taco
 IllusiveMan196
-Gediminas Murauskas
 Petr Novák
-StoyanDimitrov
+Gediminas Murauskas
 Joel A
+Oğuz Ersen
+StoyanDimitrov
 Samantaz Fox
 Nyatsuki
-Oğuz Ersen
 arno-github
 Sergio Paredes
+Ashutosh Gupta
+Ankit Tiwari
 arshbeerSingh
 huuhaa
 Michael Moroni
@@ -49,7 +51,7 @@ Biren
 Flav
 Franciszek Stefan
 Izzy
-Karol Kosek
+krkk
 bittin
 Maciej Błędkowski
 Mattia
@@ -63,6 +65,7 @@ Simone Dotto
 Subhashish Anand
 Tymofii Lytvynenko
 Tjipke van der Heide
+avikkundu
 opsik
 psa-jforestier
 Robin
