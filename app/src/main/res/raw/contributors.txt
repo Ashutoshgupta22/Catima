@@ -8,6 +8,7 @@ solokot
 Katharine Chui
 Oğuz Ersen
 IllusiveMan196
+Ashutosh Gupta
 Petr Novák
 Taco
 Gediminas Murauskas
@@ -56,14 +57,14 @@ Kasina Dheeraj
 Flav
 Franciszek Stefan
 Izzy
-krkk
+Karol Kosek
 bittin
 Maciej Błędkowski
 Mattia
 Michael Gangolf
 pbeckmann
 Peer Beckmann
-QuangDNguyen2211
+Quang Nguyen
 Reza
 Rohan Babbar 
 Ronak Upadhyay
