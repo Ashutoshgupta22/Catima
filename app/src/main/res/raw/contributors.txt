@@ -8,6 +8,7 @@ solokot
 Katharine Chui
 Oğuz Ersen
 IllusiveMan196
+Ashutosh Gupta
 Petr Novák
 Taco
 Gediminas Murauskas
@@ -63,7 +64,7 @@ Mattia
 Michael Gangolf
 pbeckmann
 Peer Beckmann
-QuangDNguyen2211
+Quang Nguyen
 Reza
 Rohan Babbar 
 Ronak Upadhyay
